@@ -1,0 +1,19 @@
+<html>
+    <header>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </header>
+    
+    <style>
+    .logo-image {
+        height: 50px;
+    }
+    </style>
+    
+    <body>
+    
+    <h2><img src="logo.png" class="logo-image"></h2>
+    
+    <h2>digital coffee</h2>
+    
+    <table>
+        <tr><th>home</th><th>about us</th><th>menu</th></tr><th>branches</th>
